@@ -624,24 +624,6 @@ input, select { font-family: inherit; }
 .skel-addr { width: 45%; height: 11px; }
 .skel-price { width: 70px; height: 26px; }
 
-/* ── Pull-to-refresh ── */
-.refresh-indicator {
-  position: fixed;
-  top: -50px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--accent);
-  color: #fff;
-  padding: 0.5rem 1rem;
-  border-radius: 100px;
-  font-size: 0.75rem;
-  font-weight: 600;
-  transition: top 0.3s;
-  z-index: 200;
-  box-shadow: var(--shadow-lg);
-}
-.refresh-indicator.show { top: calc(var(--safe-top) + 12px); }
-
 /* ── Footer ── */
 .footer {
   text-align: center;
@@ -689,8 +671,6 @@ input, select { font-family: inherit; }
     <div class="fuel-pill" data-product="10">E85</div>
   </div>
 </header>
-
-<div class="refresh-indicator" id="refresh-ind">↻ Refreshing...</div>
 
 <div class="container">
   <!-- Prices View -->
@@ -1489,33 +1469,6 @@ function escHtml(str) {
   return d.innerHTML;
 }
 
-// ── Pull-to-refresh (touch devices only) ──
-if ('ontouchstart' in window && window.matchMedia('(pointer: coarse)').matches) {
-  let touchStart = 0, pulling = false, activated = false;
-  document.addEventListener('touchstart', (e) => {
-    if (window.scrollY === 0 && activeView === 'prices') {
-      touchStart = e.touches[0].clientY;
-      pulling = true;
-      activated = false;
-    }
-  }, { passive: true });
-  document.addEventListener('touchmove', (e) => {
-    if (!pulling) return;
-    const dy = e.touches[0].clientY - touchStart;
-    if (dy > 80 && !activated) {
-      activated = true;
-      document.getElementById('refresh-ind').classList.add('show');
-    }
-  }, { passive: true });
-  document.addEventListener('touchend', () => {
-    const ind = document.getElementById('refresh-ind');
-    if (activated) {
-      doSearch().then(() => setTimeout(() => ind.classList.remove('show'), 600));
-    }
-    pulling = false;
-    activated = false;
-  });
-}
 </script>
 </body>
 </html>
