@@ -1,4 +1,4 @@
-{"updated":"2026-06-07T15:32:22+08:00","day":"today","date":"2026-06-07","product":4,"name":"Diesel","stations":[
+{"updated":"2026-06-07T21:22:24+08:00","day":"today","date":"2026-06-07","product":4,"name":"Diesel","stations":[
 {"n":"Vibe Oakford Truckstop","b":"Vibe","p":179.2,"a":"1780 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 9525 4269","lat":-32.20930500,"lng":115.95227900},
 {"n":"Burk Oakford","b":"Burk","p":179.3,"a":"1526 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 6205 9900","lat":-32.20504100,"lng":115.92611400},
 {"n":"Solo Morley","b":"Solo","p":181.9,"a":"298 Benara Rd","s":"MORLEY","r":"","ph":"0466 846 403","lat":-31.87586600,"lng":115.92530900},
@@ -8,7 +8,7 @@
 {"n":"Burk Cannington","b":"Burk","p":183.3,"a":"1510 Albany Hwy","s":"BECKENHAM","r":"","ph":"","lat":-32.02718300,"lng":115.95001300},
 {"n":"Burk Landsdale","b":"Burk","p":183.3,"a":"274 Gnangara Rd","s":"LANDSDALE","r":"","ph":"(08) 6205 9911","lat":-31.79903000,"lng":115.84712600},
 {"n":"Burk Bassendean","b":"Burk","p":183.3,"a":"309 Guildford Rd","s":"BASSENDEAN","r":"","ph":"(08) 6278 4747","lat":-31.90110500,"lng":115.95911800},
-{"n":"Liberty Landsdale","b":"Liberty","p":184.3,"a":"2 Cowle St","s":"LANDSDALE","r":"","ph":"(08) 6500 0219","lat":-31.80275800,"lng":115.83773700},
+{"n":"Liberty Landsdale","b":"Liberty","p":184.3,"a":"2 Cowle St","s":"LANDSDALE","r":"","ph":"(08) 6500 0219","lat":-31.80275800,"lng":null},
 {"n":"OMG Metro Yangebup","b":"OMG Metro","p":184.7,"a":"109 Barrington St","s":"YANGEBUP","r":"","ph":"","lat":-32.11689100,"lng":115.79544600},
 {"n":"OMG Metro Dianella","b":"OMG Metro","p":184.7,"a":"63 Walter Rd West","s":"DIANELLA","r":"","ph":"","lat":-31.90643500,"lng":115.88191700},
 {"n":"OMG Metro Maddington","b":"OMG Metro","p":184.7,"a":"134 Westfield St","s":"MADDINGTON","r":"","ph":"","lat":-32.05350700,"lng":116.00080600},
@@ -60,7 +60,7 @@
 {"n":"United Rangeway Truck Stop","b":"United","p":189.9,"a":"50 Rifle Range Rd","s":"RANGEWAY","r":"","ph":"","lat":-28.78437600,"lng":114.62947200},
 {"n":"Astron Neerabup","b":"Astron","p":189.9,"a":"2038 Wanneroo Rd","s":"NEERABUP","r":"","ph":"","lat":-31.67243400,"lng":115.74314100},
 {"n":"BP 2go Morrison Road","b":"BP","p":189.9,"a":"228 Morrison Rd","s":"MIDVALE","r":"","ph":"(08) 9250 1776","lat":-31.88639500,"lng":116.03097700},
-{"n":"Lori's Fuel Supply","b":"Independent","p":189.9,"a":"259 Railway Ave","s":"KELMSCOTT","r":"","ph":"(08) 9399 1701","lat":-32.13535900,"lng":116.00948100},
+{"n":"","b":"Independent","p":189.9,"a":"259 Railway Ave","s":"KELMSCOTT","r":"","ph":"(08) 9399 1701","lat":-32.13535900,"lng":116.00948100},
 {"n":"Vibe Welshpool","b":"Vibe","p":189.9,"a":"124 Welshpool Rd","s":"WELSHPOOL","r":"","ph":"(08) 9358 0260","lat":-31.99432700,"lng":115.93068100},
 {"n":"Vibe Wanneroo","b":"Vibe","p":189.9,"a":"964 Wanneroo Rd","s":"WANNEROO","r":"","ph":"(08) 6400 1458","lat":-31.75138200,"lng":115.80342600},
 {"n":"Atlas Fuel Forrestfield","b":"Atlas","p":189.9,"a":"78C Hale Rd","s":"FORRESTFIELD","r":"","ph":"(08) 6377 7644","lat":-31.98804900,"lng":116.00843700},
@@ -384,7 +384,7 @@
 {"n":"Gull Gingin","b":"Independent","p":217.9,"a":"30 Weld St","s":"GINGIN","r":"","ph":"","lat":-31.35203768,"lng":115.90768247},
 {"n":"Kalbarri IGA","b":"Shell","p":217.9,"a":"128 Grey St","s":"KALBARRI","r":"","ph":"","lat":-27.70373482,"lng":114.16822620},
 {"n":"BP Walpole","b":"BP","p":217.9,"a":"18 Nockolds St","s":"WALPOLE","r":"","ph":"0427 290 098","lat":-34.97637600,"lng":116.73125700},
-{"n":"53 Mile Roadhouse","b":"United","p":217.9,"a":"31 South Western Hwy","s":"PINJARRA","r":"","ph":"(08) 9531 1560","lat":-32.62530400,"lng":null},
+{"n":"53 Mile Roadhouse","b":"United","p":217.9,"a":"31 South Western Hwy","s":"PINJARRA","r":"","ph":"(08) 9531 1560","lat":-32.62530400,"lng":115.88143400},
 {"n":"The Roadhouse Hooked and Cooked","b":"BP","p":218.6,"a":"5 Gnornbup Tce","s":"BREMER BAY","r":"","ph":"","lat":-34.39845100,"lng":119.37563500},
 {"n":"Dwellingup BP","b":"BP","p":218.7,"a":"48 McLarty St","s":"DWELLINGUP","r":"","ph":"(08) 9538 1229","lat":-32.71400300,"lng":116.06254500},
 {"n":"Petro Fuels Boyup Brook","b":"BP","p":218.8,"a":"30 Abel St","s":"BOYUP BROOK","r":"","ph":"","lat":-33.82917656,"lng":116.38410810},
