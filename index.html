@@ -785,10 +785,11 @@ const PRODUCTS = {
 const PRODUCT_ORDER = [1, 2, 6, 4, 11, 5, 10];
 
 // ── Data source: static JSON committed by the ESP32 uploader ──
-// Files sit next to index.html in the repo root (fuel-1.json, fuel-1-tomorrow.json, ...).
-// If you ever serve the site from a DIFFERENT repo than cbb96/fuel, set DATA_BASE to:
-//   'https://raw.githubusercontent.com/cbb96/fuel/main/'
-const DATA_BASE = '';
+// Absolute raw URL works whether the page is opened locally, from GitHub Pages,
+// or a custom domain. raw.githubusercontent.com sends permissive CORS headers.
+// If the site is served from the SAME repo as the data and you'd rather use the
+// same-origin copy (avoids raw's ~5 min CDN cache), set DATA_BASE = '' instead.
+const DATA_BASE = 'https://raw.githubusercontent.com/cbb96/fuel/main/';
 const NEARBY_RADIUS_KM = 35;          // "Nearby suburbs" expansion radius
 const CACHE_TTL_MS = 10 * 60 * 1000;  // re-fetch a file at most every 10 min
 
@@ -1045,18 +1046,30 @@ const _fileCache = {};   // filename -> { ts, data }
 
 async function loadProductFile(product, day) {
   const file = day === 'tomorrow' ? `fuel-${product}-tomorrow.json` : `fuel-${product}.json`;
+  const url = DATA_BASE + file;
   const now = Date.now();
   const cached = _fileCache[file];
   if (cached && (now - cached.ts) < CACHE_TTL_MS) return cached.data;
 
   let data;
-  const resp = await fetch(DATA_BASE + file, { cache: 'no-store' });
+  let resp;
+  try {
+    resp = await fetch(url, { cache: 'no-store' });
+  } catch (e) {
+    // Network/CORS failure — fetch() rejects without a status.
+    throw new Error(`Network error fetching ${url} (${e.message}). Check the URL is reachable.`);
+  }
   if (resp.status === 404) {
-    data = { stations: [], updated: null, date: null, missing: true };
+    data = { stations: [], updated: null, date: null, missing: true, url };
   } else if (!resp.ok) {
-    throw new Error('HTTP ' + resp.status);
+    throw new Error(`HTTP ${resp.status} fetching ${url}`);
   } else {
-    data = await resp.json();
+    try {
+      data = await resp.json();
+    } catch (e) {
+      throw new Error(`Bad JSON in ${url} (${e.message})`);
+    }
+    data.url = url;
   }
   _fileCache[file] = { ts: now, data };
   return data;
@@ -1114,7 +1127,13 @@ async function fetchFuelData(product, suburb, surrounding, day) {
   const all = (data.stations || []).map(r => mapStation(r, day)).filter(s => isFinite(s.price));
   const filtered = filterStations(all, suburb, surrounding);
   filtered.sort((a, b) => a.price - b.price);
-  filtered._meta = { updated: data.updated, date: data.date, missing: !!data.missing };
+  filtered._meta = {
+    updated: data.updated,
+    date: data.date,
+    missing: !!data.missing,
+    statewide: all.length,
+    url: data.url
+  };
   return filtered;
 }
 
@@ -1184,7 +1203,8 @@ async function doSearch() {
       <div class="state-message">
         <div class="icon">⚠️</div>
         <h3>Couldn't load prices</h3>
-        <p>The price data file couldn't be fetched. If the uploader hasn't run yet, check back shortly.</p>
+        <p>${escHtml(err.message || 'Unknown error')}</p>
+        <p style="margin-top:0.5rem;font-size:0.72rem;">If the uploader hasn't committed this file yet, this will resolve once it runs. Open the URL above directly to check.</p>
         <button class="history-clear" style="color:var(--accent)" onclick="doSearch()">Retry</button>
       </div>`;
   }
@@ -1250,15 +1270,15 @@ function renderResultsSection(stations, title, suburb, dayType, originalUnsorted
       html += `
         <div class="state-message" style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.5rem;">
           <div class="icon">📭</div>
-          <h3>No data for this fuel type yet</h3>
-          <p>The uploader hasn't published this fuel type yet. It'll appear after the next update.</p>
+          <h3>Data file not found</h3>
+          <p>The uploader hasn't committed this file yet (404). It'll appear after the next ESP32 update.</p>
         </div>`;
     } else {
       html += `
         <div class="state-message" style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.5rem;">
           <div class="icon">🔍</div>
-          <h3>No stations found</h3>
-          <p>No stations in ${escHtml(suburb)}. Turn on "Nearby suburbs" to widen the search, or pick a town that has a servo.</p>
+          <h3>No stations in ${escHtml(suburb)}</h3>
+          <p>Loaded ${meta.statewide || 0} stations statewide, but none match this suburb. Turn on "Nearby suburbs" to widen the search, or pick a town with a servo.</p>
         </div>`;
     }
   } else {
