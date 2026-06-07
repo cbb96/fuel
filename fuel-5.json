@@ -1,4 +1,4 @@
-{"updated":"2026-06-07T13:18:03+08:00","day":"today","date":"2026-06-07","product":5,"name":"LPG","stations":[
+{"updated":"2026-06-07T14:13:58+08:00","day":"today","date":"2026-06-07","product":5,"name":"LPG","stations":[
 {"n":"Liberty Beckenham","b":"Liberty","p":129.9,"a":"63 William St","s":"BECKENHAM","r":"","ph":"(08) 7077 3062","lat":-32.02205400,"lng":115.95477900},
 {"n":"S24 Forrestfield","b":"Shell","p":135.9,"a":"155 Hale Rd","s":"FORRESTFIELD","r":"","ph":"(08) 9359 4503","lat":-31.99055500,"lng":116.00006400},
 {"n":"S24 Redcliffe","b":"Shell","p":135.9,"a":"419 Great Eastern Hwy","s":"REDCLIFFE","r":"","ph":"(08) 9277 9755","lat":-31.93046900,"lng":115.94472800},
@@ -21,7 +21,7 @@
 {"n":"United Hamilton Hill","b":"United","p":159.5,"a":"9 Winterfold Rd","s":"HAMILTON HILL","r":"","ph":"(08) 6336 7751","lat":-32.07492600,"lng":115.78093100},
 {"n":"United Lexia Truck Stop","b":"United","p":159.5,"a":"779 Gnangara Rd","s":"LEXIA","r":"","ph":"(08) 6336 7753","lat":-31.79518900,"lng":115.89955900},
 {"n":"United Ellenbrook","b":"United","p":159.5,"a":"3 Locke Lane","s":"ELLENBROOK","r":"","ph":"(08) 6336 7752","lat":-31.77852000,"lng":115.96699000},
-{"n":"Better Choice Bellevue","b":"Better Choice","p":159.5,"a":"177-179 Great Eastern Hwy","s":"BELLEVUE","r":"","ph":"(08) 9328 6800","lat":-31.89305800,"lng":116.01941900},
+{"n":"Better Choice Bellevue","b":"Better Choice","p":159.5,"a":"177-179 Great Eastern Hwy","s":"BELLEVUE","r":"","ph":"(08) 9328 6800","lat":null,"lng":116.01941900},
 {"n":"United Hepburn Heights","b":"United","p":159.5,"a":"4 Walter Padbury Bvd","s":"PADBURY","r":"","ph":"(08) 9307 2868","lat":-31.81889000,"lng":115.77409600},
 {"n":"Vibe Spearwood","b":"Vibe","p":159.5,"a":"333 Rockingham Rd","s":"SPEARWOOD","r":"","ph":"(08) 6285 5607","lat":-32.10503300,"lng":115.78241900},
 {"n":"United Myaree","b":"United","p":159.5,"a":"182 Leach Hwy","s":"MYAREE","r":"","ph":"(08) 6336 7761","lat":-32.04621200,"lng":115.81261100},
