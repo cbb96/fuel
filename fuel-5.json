@@ -1,4 +1,4 @@
-{"updated":"2026-06-07T15:32:40+08:00","day":"today","date":"2026-06-07","product":5,"name":"LPG","stations":[
+{"updated":"2026-06-07T21:22:53+08:00","day":"today","date":"2026-06-07","product":5,"name":"LPG","stations":[
 {"n":"Liberty Beckenham","b":"Liberty","p":129.9,"a":"63 William St","s":"BECKENHAM","r":"","ph":"(08) 7077 3062","lat":-32.02205400,"lng":115.95477900},
 {"n":"S24 Forrestfield","b":"Shell","p":135.9,"a":"155 Hale Rd","s":"FORRESTFIELD","r":"","ph":"(08) 9359 4503","lat":-31.99055500,"lng":116.00006400},
 {"n":"S24 Redcliffe","b":"Shell","p":135.9,"a":"419 Great Eastern Hwy","s":"REDCLIFFE","r":"","ph":"(08) 9277 9755","lat":-31.93046900,"lng":115.94472800},
@@ -12,7 +12,7 @@
 {"n":"Astron Quinns Rocks","b":"Astron","p":145.9,"a":"121 Quinns Rd","s":"QUINNS ROCKS","r":"","ph":"(08) 6336 7756","lat":-31.67265700,"lng":115.70828200},
 {"n":"United Northbridge","b":"United","p":149.5,"a":"31 Fitzgerald St","s":"NORTHBRIDGE","r":"","ph":"(08) 6336 7754","lat":-31.94561200,"lng":115.85243800},
 {"n":"United Osborne Park","b":"United","p":149.5,"a":"479 Scarborough Beach Rd","s":"OSBORNE PARK","r":"","ph":"(08) 6336 7755","lat":-31.90483700,"lng":115.80609000},
-{"n":"United South Lake","b":"United","p":149.9,"a":"49 Berrigan Dr","s":"SOUTH LAKE","r":"","ph":"(08) 9417 7977","lat":null,"lng":115.83883300},
+{"n":"United South Lake","b":"United","p":149.9,"a":"49 Berrigan Dr","s":"SOUTH LAKE","r":"","ph":"(08) 9417 7977","lat":-32.11148100,"lng":115.83883300},
 {"n":"BP Morley","b":"BP","p":151.9,"a":"335 Walter Rd West","s":"MORLEY","r":"","ph":"(08) 9275 7522","lat":-31.89446000,"lng":115.90533000},
 {"n":"BP Woodbridge","b":"BP","p":151.9,"a":"380 Great Eastern Hwy","s":"WOODBRIDGE","r":"","ph":"(08) 6460 6983","lat":-31.89035400,"lng":115.99571500},
 {"n":"Lori's Fuel Supply","b":"Independent","p":156.9,"a":"259 Railway Ave","s":"KELMSCOTT","r":"","ph":"(08) 9399 1701","lat":-32.13535900,"lng":116.00948100},
