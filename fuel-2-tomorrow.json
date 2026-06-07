@@ -1,4 +1,4 @@
-{"updated":"2026-06-07T14:36:25+08:00","day":"tomorrow","date":"2026-06-08","product":2,"name":"PULP 95","stations":[
+{"updated":"2026-06-07T15:33:49+08:00","day":"tomorrow","date":"2026-06-08","product":2,"name":"PULP 95","stations":[
 {"n":"Burk Oakford","b":"Burk","p":165.3,"a":"1526 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 6205 9900","lat":-32.20504100,"lng":115.92611400},
 {"n":"Vibe Oakford Truckstop","b":"Vibe","p":166.2,"a":"1780 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 9525 4269","lat":-32.20930500,"lng":115.95227900},
 {"n":"Burk Cannington","b":"Burk","p":167.3,"a":"1510 Albany Hwy","s":"BECKENHAM","r":"","ph":"","lat":-32.02718300,"lng":115.95001300},
@@ -129,7 +129,7 @@
 {"n":"BP South Fremantle","b":"BP","p":176.9,"a":"229B Hampton Rd","s":"SOUTH FREMANTLE","r":"","ph":"1300 130 027","lat":-32.07687100,"lng":115.76094400},
 {"n":"Ampol Foodary Mt Lawley","b":"Ampol","p":176.9,"a":"810 Beaufort St","s":"MOUNT LAWLEY","r":"","ph":"(08) 9271 3011","lat":-31.92517900,"lng":115.88191700},
 {"n":"Ampol Foodary Kwinana","b":"Ampol","p":176.9,"a":"Cnr Mandurah Rd & Wellard Rd","s":"KWINANA BEACH","r":"","ph":"(08) 9419 4866","lat":-32.24883600,"lng":115.78268000},
-{"n":"BP Malaga","b":"BP","p":176.9,"a":"370 Victoria Rd","s":"MALAGA","r":"","ph":"0499 222 367","lat":-31.86206700,"lng":115.89444500},
+{"n":"","b":"BP","p":176.9,"a":"370 Victoria Rd","s":"MALAGA","r":"","ph":"0499 222 367","lat":-31.86206700,"lng":115.89444500},
 {"n":"BP Piara Waters","b":"BP","p":176.9,"a":"12 Erade Dr","s":"PIARA WATERS","r":"","ph":"0477 111 940","lat":-32.11625700,"lng":115.91594800},
 {"n":"Shell Reddy Express Osborne Park","b":"Reddy Express","p":177.4,"a":"11 Roberts St West","s":"OSBORNE PARK","r":"","ph":"(08) 6157 5676","lat":-31.90753500,"lng":115.81909200},
 {"n":"Shell Reddy Express Wangara","b":"Reddy Express","p":177.4,"a":"1 Niche Pde","s":"WANGARA","r":"","ph":"(08) 6247 4362","lat":-31.79196300,"lng":115.85247800},
