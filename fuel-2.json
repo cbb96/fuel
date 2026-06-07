@@ -1,4 +1,4 @@
-{"updated":"2026-06-07T13:02:39+08:00","day":"today","date":"2026-06-07","product":2,"name":"PULP 95","stations":[
+{"updated":"2026-06-07T13:17:12+08:00","day":"today","date":"2026-06-07","product":2,"name":"PULP 95","stations":[
 {"n":"Burk Oakford","b":"Burk","p":165.3,"a":"1526 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 6205 9900","lat":-32.20504100,"lng":115.92611400},
 {"n":"Vibe Oakford Truckstop","b":"Vibe","p":166.2,"a":"1780 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 9525 4269","lat":-32.20930500,"lng":115.95227900},
 {"n":"Burk Cannington","b":"Burk","p":167.3,"a":"1510 Albany Hwy","s":"BECKENHAM","r":"","ph":"","lat":-32.02718300,"lng":115.95001300},
@@ -315,7 +315,7 @@
 {"n":"Ampol Foodary Baldivis","b":"Ampol","p":182.9,"a":"614 Baldivis Rd","s":"BALDIVIS","r":"","ph":"(08) 9523 1540","lat":-32.33064100,"lng":115.82099500},
 {"n":"Ampol Foodary Clarkson","b":"Ampol","p":182.9,"a":"7 Ocean Keys Bvd","s":"CLARKSON","r":"","ph":"(08) 9407 8122","lat":-31.68936900,"lng":115.71522600},
 {"n":"Ampol Foodary Leederville","b":"Ampol","p":182.9,"a":"319 Vincent St","s":"LEEDERVILLE","r":"","ph":"(08) 9242 3978","lat":-31.93681600,"lng":115.84002500},
-{"n":"Ampol Foodary Scarborough","b":"Ampol","p":182.9,"a":"74 Scarborough Beach Rd","s":"SCARBOROUGH","r":"","ph":"(08) 9245 7914","lat":-31.89382600,"lng":null},
+{"n":"Ampol Foodary Scarborough","b":"Ampol","p":182.9,"a":"74 Scarborough Beach Rd","s":"SCARBOROUGH","r":"","ph":"(08) 9245 7914","lat":-31.89382600,"lng":115.76440200},
 {"n":"Ampol Foodary Kewdale","b":"Ampol","p":182.9,"a":"2 Fenton St","s":"KEWDALE","r":"","ph":"(08) 9353 2757","lat":-31.98365000,"lng":115.95590100},
 {"n":"Ampol Foodary North Yunderup","b":"Ampol","p":182.9,"a":"868 Pinjarra Rd","s":"FURNISSDALE","r":"","ph":"(08) 9537 6027","lat":-32.56712000,"lng":115.79835900},
 {"n":"Petro Fuels Bluff Point","b":"Petro Fuels","p":182.9,"a":"381 Chapman Rd","s":"BLUFF POINT","r":"","ph":"(08) 9965 1496","lat":-28.74142000,"lng":114.62245600},
