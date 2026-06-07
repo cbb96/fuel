@@ -1,4 +1,4 @@
-{"updated":"2026-06-07T14:36:46+08:00","day":"tomorrow","date":"2026-06-08","product":4,"name":"Diesel","stations":[
+{"updated":"2026-06-07T15:34:05+08:00","day":"tomorrow","date":"2026-06-08","product":4,"name":"Diesel","stations":[
 {"n":"Vibe Oakford Truckstop","b":"Vibe","p":179.2,"a":"1780 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 9525 4269","lat":-32.20930500,"lng":115.95227900},
 {"n":"Burk Oakford","b":"Burk","p":179.3,"a":"1526 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 6205 9900","lat":-32.20504100,"lng":115.92611400},
 {"n":"Solo Riverton","b":"Solo","p":181.9,"a":"268 High Rd","s":"RIVERTON","r":"","ph":"(08) 6555 2977","lat":-32.03836300,"lng":115.89675400},
@@ -40,7 +40,7 @@
 {"n":"Vibe Wanneroo","b":"Vibe","p":187.7,"a":"964 Wanneroo Rd","s":"WANNEROO","r":"","ph":"(08) 6400 1458","lat":-31.75138200,"lng":115.80342600},
 {"n":"Vibe Canning Vale","b":"Vibe","p":187.7,"a":"6 Birnam Rd","s":"CANNING VALE","r":"","ph":"(08) 6161 9401","lat":-32.07509600,"lng":115.92294700},
 {"n":"Petro Fuels Swan View","b":"Petro Fuels","p":187.8,"a":"309 Morrison Rd","s":"SWAN VIEW","r":"","ph":"(08) 9255 2132","lat":-31.88569300,"lng":116.04218700},
-{"n":"Shell Reddy Express Dianella","b":"Reddy Express\r\n3ffa\r\n","p":187.9,"a":"67 Walter Rd West","s":"DIANELLA","r":"","ph":"(08) 6157 5660","lat":-31.90580100,"lng":115.88270000},
+{"n":"Shell Reddy Express Dianella","b":"Reddy Express","p":187.9,"a":"67 Walter Rd West","s":"DIANELLA","r":"","ph":"(08) 6157 5660","lat":-31.90580100,"lng":115.88270000},
 {"n":"Metro Wanneroo","b":"Metro Petroleum","p":187.9,"a":"994 Wanneroo Rd","s":"WANNEROO","r":"","ph":"","lat":-31.74898600,"lng":115.80195400},
 {"n":"Vibe Ascot","b":"Vibe","p":188.3,"a":"268 Great Eastern Hwy","s":"ASCOT","r":"","ph":"(08) 9277 6806","lat":-31.93596800,"lng":115.93436100},
 {"n":"Vibe Piara Waters","b":"Vibe","p":188.3,"a":"386 Nicholson Rd","s":"PIARA WATERS","r":"","ph":"(08) 9397 0822","lat":-32.14685200,"lng":115.92209900},
@@ -93,7 +93,7 @@
 {"n":"Liberty McKail","b":"Liberty","p":193.5,"a":"557 Albany Hwy","s":"MCKAIL","r":"","ph":"(08) 6365 5114","lat":-34.98549500,"lng":117.85172400},
 {"n":"United Pinjarra Truck Stop","b":"United","p":193.5,"a":"1602 Pinjarra Rd","s":"PINJARRA","r":"","ph":"(08) 9548 6000","lat":-32.61078500,"lng":115.84804100},
 {"n":"Liberty Pinjarra","b":"Liberty","p":193.5,"a":"Cnr Pinjarra Rd & Carey St","s":"PINJARRA","r":"","ph":"0434 401 315","lat":-32.62628200,"lng":115.86959500},
-{"n":"Liberty Oyster Harbour","b":"Liberty","p":193.5,"a":"4 Bayonet Head Rd","s":"BAYONET HEAD","r":"","ph":"(\r\n9000\r\n08) 6500 1227","lat":-34.98177900,"lng":117.92210300},
+{"n":"Liberty Oyster Harbour","b":"Liberty","p":193.5,"a":"4 Bayonet Head Rd","s":"BAYONET HEAD","r":"","ph":"(08) 6500 1227","lat":-34.98177900,"lng":117.92210300},
 {"n":"Petro Fuels Albany","b":"Petro Fuels","p":193.8,"a":"250 Albany Hwy","s":"CENTENNIAL PARK","r":"","ph":"(08) 9841 1757","lat":-35.00989500,"lng":117.87044300},
 {"n":"Vibe Hamilton Hill","b":"Vibe","p":193.9,"a":"114 Rockingham Rd","s":"HAMILTON HILL","r":"","ph":"(08) 9418 8739","lat":-32.08614300,"lng":115.77723300},
 {"n":"Vibe Nollamara","b":"Vibe","p":193.9,"a":"66 Sylvia St","s":"NOLLAMARA","r":"","ph":"(08) 9349 6904","lat":-31.88051400,"lng":115.84033900},
@@ -267,6 +267,7 @@
 {"n":"BP Forrestdale","b":"BP","p":204.9,"a":"2 Alex Wood Dr","s":"FORRESTDALE","r":"","ph":"0408 305 380","lat":-32.13731200,"lng":115.96945600},
 {"n":"United East Victoria Park","b":"United","p":204.9,"a":"916 Albany Hwy","s":"EAST VICTORIA PARK","r":"","ph":"(08) 6336 7757","lat":-31.98781000,"lng":115.90540200},
 {"n":"BP East Rockingham","b":"BP","p":204.9,"a":"137 Dixon Rd","s":"EAST ROCKINGHAM","r":"","ph":"(08) 6373 1456","lat":-32.27645900,"lng":115.78051200},
+{"n":"OTR Como","b":"Shell","p":204.9,"a":"73 Manning Rd","s":"COMO","r":"","ph":"(08) 8333 9777","lat":-32.01209100,"lng":115.86442700},
 {"n":"Shell Reddy Express Karawara","b":"Reddy Express","p":204.9,"a":"222 Manning Rd","s":"KARAWARA","r":"","ph":"(08) 6247 4350","lat":-32.01192700,"lng":115.88414500},
 {"n":"WFG Shell Esperance OPT","b":"Shell","p":204.9,"a":"209 Harbour Rd (entrance via Fairfield St)","s":"CHADWICK","r":"","ph":"","lat":-33.83235000,"lng":121.89370000},
 {"n":"FDWA Cunderdin OPT","b":"FDWA","p":205.0,"a":"67 Lundy Ave","s":"CUNDERDIN","r":"","ph":"","lat":-31.64970000,"lng":117.24167100},
@@ -354,7 +355,7 @@
 {"n":"Youngs Siding General Store","b":"BP","p":213.5,"a":"19 Station St","s":"YOUNGS SIDING","r":"","ph":"(08) 9845 2010","lat":-35.01319900,"lng":117.52285100},
 {"n":"Refuel Australia - Airport","b":"Ampol","p":213.8,"a":"Lot 363 Gordon Garratt Dr","s":"GERALDTON","r":"","ph":"","lat":-28.79484653,"lng":114.70090683},
 {"n":"Refuel Australia - DMW Supplies","b":"Ampol","p":213.8,"a":"39 Moreton Tce","s":"DONGARA","r":"","ph":"(08) 9927 1075","lat":-29.25111800,"lng":114.93519700},
-{"n":"","b":"Petro Fuels","p":214.8,"a":"6-8 Yougenup Rd","s":"GNOWANGERUP","r":"","ph":"","lat":-33.93405990,"lng":118.00560460},
+{"n":"Petro Fuels Gnowangerup Roadhouse","b":"Petro Fuels","p":214.8,"a":"6-8 Yougenup Rd","s":"GNOWANGERUP","r":"","ph":"","lat":-33.93405990,"lng":118.00560460},
 {"n":"BP Mingenew OPT","b":"BP","p":214.9,"a":"6 Ealenor St","s":"MINGENEW","r":"","ph":"","lat":-29.18908964,"lng":115.44137640},
 {"n":"Atlas Fuel Mingenew","b":"Atlas","p":214.9,"a":"46 Midlands Rd","s":"MINGENEW","r":"","ph":"","lat":-29.19036013,"lng":115.44054770},
 {"n":"Darkan Roadhouse","b":"Independent","p":214.9,"a":"9881 Coalfields Rd","s":"DARKAN","r":"","ph":"","lat":-33.33518802,"lng":116.74314330},
@@ -400,7 +401,7 @@
 {"n":"Ampol Foodary Williams","b":"Ampol","p":218.9,"a":"56 Albany Hwy","s":"WILLIAMS","r":"","ph":"(08) 9885 1104","lat":-33.02335200,"lng":116.87808600},
 {"n":"Ampol Bridgetown Diesel Stop","b":"Ampol","p":218.9,"a":"1 Spencer St","s":"BRIDGETOWN","r":"","ph":"(08) 9761 1470","lat":-33.95913200,"lng":116.13874600},
 {"n":"Walpole IGA Pioneer Store","b":"Ampol","p":219.0,"a":"10 Nockolds St","s":"WALPOLE","r":"","ph":"(08) 9840 1031","lat":-34.97649800,"lng":116.73047100},
-{"n":"Bodallin Roadhouse","b":"Perrys","p":null,"a":"57 Corboy St","s":"BODALLIN","r":"","ph":"(08) 8636 2274","lat":-31.37029500,"lng":118.85616900},
+{"n":"Bodallin Roadhouse","b":"Perrys","p":219.0,"a":"57 Corboy St","s":"BODALLIN","r":"","ph":"(08) 8636 2274","lat":-31.37029500,"lng":118.85616900},
 {"n":"Beverley Dome Roadhouse","b":"Liberty","p":219.7,"a":"149 Vincent St","s":"BEVERLEY","r":"","ph":"","lat":-32.10972226,"lng":116.92357830},
 {"n":"Smiths Shell Service","b":"Shell","p":219.7,"a":"86 Avon Tce","s":"YORK","r":"","ph":"(08) 9641 1224","lat":-31.89067100,"lng":116.76860600},
 {"n":"Gull York Roadhouse","b":"Gull","p":219.7,"a":"63 Avon Tce","s":"YORK","r":"","ph":"(08) 9641 2605","lat":-31.89332000,"lng":116.76803700},
@@ -679,4 +680,4 @@
 {"n":"Warakurna Roadhouse","b":"BP","p":428.0,"a":"Warakurna Rd","s":"WARAKURNA","r":"","ph":"","lat":-25.04294082,"lng":128.30329000},
 {"n":"Blackstone Store","b":"BP","p":428.0,"a":"First St","s":"PAPULANKUTJA","r":"","ph":"","lat":-25.99774860,"lng":128.28243250},
 {"n":"Yakanarra Community Store","b":"Independent","p":450.0,"a":"Nyinyijarta Rd","s":"ST GEORGE RANGES","r":"","ph":"","lat":-18.67085881,"lng":125.29763240}
-],"count":680}
+],"count":681}
