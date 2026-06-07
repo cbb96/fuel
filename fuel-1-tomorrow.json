@@ -1,4 +1,4 @@
-{"updated":"2026-06-07T15:33:24+08:00","day":"tomorrow","date":"2026-06-08","product":1,"name":"ULP","stations":[
+{"updated":"2026-06-07T21:24:13+08:00","day":"tomorrow","date":"2026-06-08","product":1,"name":"ULP","stations":[
 {"n":"Vibe Oakford Truckstop","b":"Vibe","p":151.2,"a":"1780 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 9525 4269","lat":-32.20930500,"lng":115.95227900},
 {"n":"Burk Oakford","b":"Burk","p":151.3,"a":"1526 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 6205 9900","lat":-32.20504100,"lng":115.92611400},
 {"n":"Burk Cannington","b":"Burk","p":153.3,"a":"1510 Albany Hwy","s":"BECKENHAM","r":"","ph":"","lat":-32.02718300,"lng":115.95001300},
@@ -78,7 +78,7 @@
 {"n":"United Maddington Truck Stop","b":"United","p":159.9,"a":"13 Stebbing Rd","s":"MADDINGTON","r":"","ph":"(08) 6400 6609","lat":-32.04235600,"lng":115.99131000},
 {"n":"Shell Reddy Express Brighton","b":"Reddy Express","p":159.9,"a":"61 Butler Bvd","s":"BUTLER","r":"","ph":"(08) 6157 5666","lat":-31.63826400,"lng":115.69551000},
 {"n":"Shell Reddy Express Casuarina","b":"Reddy Express","p":159.9,"a":"1 Johnson Rd","s":"BERTRAM","r":"","ph":"(08) 6247 4334","lat":-32.23232600,"lng":115.84821500},
-{"n":"United Anketell South","b":"United","p":159.9,"a":"805 Thomas Rd","s":"ANKETELL","r":"","ph":"(08) 6170 9002","lat":-32.22780200,"lng":115.85587580},
+{"n":"United Anketell South","b":"United","p":159.9,"a":"805 Thomas Rd","s":"ANKETELL","r":"","ph":"","lat":-32.22780200,"lng":115.85587580},
 {"n":"S24 Sawyers Valley","b":"Caltex","p":159.9,"a":"96 Great Eastern Hwy","s":"SAWYERS VALLEY","r":"","ph":"(08) 9469 6465","lat":-31.90309100,"lng":116.20713200},
 {"n":"Ampol Foodary Glendalough","b":"Ampol","p":159.9,"a":"2 Jon Sanders Dr","s":"GLENDALOUGH","r":"","ph":"(08) 9444 3802","lat":-31.92242600,"lng":115.81975400},
 {"n":"Shell Reddy Express Forrestfield","b":"Reddy Express","p":159.9,"a":"2 Strelitzia Ave","s":"FORRESTFIELD","r":"","ph":"(08) 6247 4394","lat":-31.98869900,"lng":116.01074600},
@@ -100,6 +100,7 @@
 {"n":"Shell Reddy Express Dianella","b":"Reddy Express","p":159.9,"a":"67 Walter Rd West","s":"DIANELLA","r":"","ph":"(08) 6157 5660","lat":-31.90580100,"lng":115.88270000},
 {"n":"Shell Reddy Express Osborne Park","b":"Reddy Express","p":159.9,"a":"11 Roberts St West","s":"OSBORNE PARK","r":"","ph":"(08) 6157 5676","lat":-31.90753500,"lng":115.81909200},
 {"n":"Shell Reddy Express Wangara","b":"Reddy Express","p":159.9,"a":"1 Niche Pde","s":"WANGARA","r":"","ph":"(08) 6247 4362","lat":-31.79196300,"lng":115.85247800},
+{"n":"Shell Reddy Express Southern River","b":"Reddy Express","p":159.9,"a":"216 Lakey St","s":"SOUTHERN RIVER","r":"","ph":"(08) 6157 5664","lat":-32.10352100,"lng":115.93472100},
 {"n":"Shell Reddy Express Bentley","b":"Reddy Express","p":159.9,"a":"1128 Albany Hwy","s":"BENTLEY","r":"","ph":"(08) 6247 4346","lat":-32.00063300,"lng":115.91869800},
 {"n":"Shell Reddy Express Wanneroo Pearsall","b":"Reddy Express","p":159.9,"a":"621 Wanneroo Rd","s":"WANNEROO","r":"","ph":"(08) 6247 4370","lat":-31.78003100,"lng":115.80818400},
 {"n":"OTR Yangebup","b":"Caltex","p":159.9,"a":"71 Shallcross St","s":"YANGEBUP","r":"","ph":"(08) 9469 6162","lat":-32.11888320,"lng":115.79473000},
@@ -154,7 +155,7 @@
 {"n":"Ampol Foodary Lakelands","b":"Ampol","p":161.9,"a":"Lot 50 Mandurah Rd","s":"MEADOW SPRINGS","r":"","ph":"(08) 9581 8021","lat":-32.47920300,"lng":115.75777400},
 {"n":"BP South Fremantle","b":"BP","p":161.9,"a":"229B Hampton Rd","s":"SOUTH FREMANTLE","r":"","ph":"1300 130 027","lat":-32.07687100,"lng":115.76094400},
 {"n":"Ampol Foodary Ascot","b":"Ampol","p":161.9,"a":"204 Great Eastern Hwy","s":"ASCOT","r":"","ph":"(08) 9478 5029","lat":-31.94098000,"lng":115.92633700},
-{"n":"United Lexia Truck Stop","b":"United","p":161.9,"a":"779 Gnangara Rd","s":"LEXIA","r":"","ph":"(08) 6336 7753","lat":-31.79518900,"lng":115.89955900},
+{"n":"United \r\n8000\r\nLexia Truck Stop","b":"United","p":161.9,"a":"779 Gnangara Rd","s":"LEXIA","r":"","ph":"(08) 6336 7753","lat":-31.79518900,"lng":115.89955900},
 {"n":"Ampol Foodary High Wycombe","b":"Ampol","p":161.9,"a":"967-969 Abernethy Rd","s":"HIGH WYCOMBE","r":"","ph":"(08) 9454 3025","lat":-31.95158500,"lng":115.98738700},
 {"n":"Ampol Foodary Warnbro","b":"Ampol","p":161.9,"a":"2 Bristol St","s":"WARNBRO","r":"","ph":"(08) 9593 6100","lat":-32.32885300,"lng":115.75869100},
 {"n":"Ampol Foodary Ashby","b":"Ampol","p":161.9,"a":"2 Hollosy Way","s":"ASHBY","r":"","ph":"(08) 9206 2286","lat":-31.73256000,"lng":115.80416000},
@@ -176,7 +177,7 @@
 {"n":"EG Ampol Morley Galleria","b":"EG Ampol","p":161.9,"a":"60 Russell St","s":"MORLEY","r":"","ph":"(08) 6186 0418","lat":-31.89626200,"lng":115.89509200},
 {"n":"United East Victoria Park","b":"United","p":161.9,"a":"916 Albany Hwy","s":"EAST VICTORIA PARK","r":"","ph":"(08) 6336 7757","lat":-31.98781000,"lng":115.90540200},
 {"n":"EG Ampol Greenwood","b":"EG Ampol","p":161.9,"a":"37 Canham Way","s":"GREENWOOD","r":"","ph":"(08) 6186 0388","lat":-31.82207200,"lng":115.82053900},
-{"n":"BP Piara Waters","b":"BP","p":161.9,"a":"12 Erade Dr","s":"PIARA WATERS","r":"","ph":"0477 111 940","lat":null,"lng":115.91594800},
+{"n":"BP Piara Waters","b":"BP","p":161.9,"a":"12 Erade Dr","s":"PIARA WATERS","r":"","ph":"0477 111 940","lat":-32.11625700,"lng":115.91594800},
 {"n":"OTR Roleystone","b":"Caltex","p":161.9,"a":"770 Brookton Hwy","s":"ROLEYSTONE","r":"","ph":"(08) 9469 6973","lat":-32.11589300,"lng":116.08326700},
 {"n":"BP Welshpool","b":"BP","p":161.9,"a":"1 Ballantyne Rd","s":"KEWDALE","r":"","ph":"(08) 9353 1606","lat":-31.98638400,"lng":115.93688100},
 {"n":"United South Lake","b":"United","p":161.9,"a":"49 Berrigan Dr","s":"SOUTH LAKE","r":"","ph":"(08) 9417 7977","lat":-32.11148100,"lng":115.83883300},
@@ -200,7 +201,7 @@
 {"n":"Ampol Foodary Erskine","b":"Ampol","p":161.9,"a":"112 Oakleigh Dr","s":"ERSKINE","r":"","ph":"(08) 9586 9531","lat":-32.56016200,"lng":115.68951900},
 {"n":"Ampol Foodary Falcon (Miami Beach)","b":"Ampol","p":161.9,"a":"2 Baroy St","s":"FALCON","r":"","ph":"(08) 9534 5602","lat":-32.58115400,"lng":115.66148000},
 {"n":"Shell Reddy Express Victoria Park","b":"Reddy Express","p":161.9,"a":"66 Kent St","s":"EAST VICTORIA PARK","r":"","ph":"(08) 6247 4352","lat":-31.98553500,"lng":115.89618600},
-{"n":"Ampol Foodary Stratton","b":"Ampol","p":161.9,"a":"240 Toodyay Rd","s":"STRATTON","r":"","ph":"(08) 9274 2997","lat":-31.86560500,"lng":116.03282800},
+{"n":"Ampol Foodary Stratton","b":"Ampol","p":161.9,"a":"240 Toodyay Rd","s":"STRATTON","r":"","ph":"","lat":-31.86560500,"lng":116.03282800},
 {"n":"Ampol Foodary Northlands","b":"Ampol","p":161.9,"a":"391 Wanneroo Rd","s":"BALCATTA","r":"","ph":"(08) 9349 0497","lat":-31.87254200,"lng":115.83098400},
 {"n":"Ampol Foodary Yangebup","b":"Ampol","p":161.9,"a":"289 Beeliar Dr","s":"YANGEBUP","r":"","ph":"(08) 6498 9137","lat":-32.12756800,"lng":115.79915800},
 {"n":"Ampol Foodary Rockingham","b":"Ampol","p":161.9,"a":"29 Dixon Rd","s":"ROCKINGHAM","r":"","ph":"(08) 9527 2707","lat":-32.27690000,"lng":115.74981900},
@@ -422,7 +423,7 @@
 {"n":"7-Eleven Baldivis","b":"7-Eleven","p":167.9,"a":"370 Baldivis Rd","s":"BALDIVIS","r":"","ph":"0409 934 593","lat":-32.30836200,"lng":115.82201700},
 {"n":"Shell Reddy Express Northam","b":"Reddy Express","p":167.9,"a":"10 Beamish Ave","s":"NORTHAM","r":"","ph":"(08) 6157 5640","lat":-31.65779500,"lng":116.66954700},
 {"n":"7-Eleven Kardinya","b":"7-Eleven","p":167.9,"a":"1 South St","s":"KARDINYA","r":"","ph":"0473 487 732","lat":-32.06732700,"lng":115.81518500},
-{"n":"7-Eleven Stirling","b":"7-Eleven","p":167.9,"a":"377 Wanneroo Rd","s":"BALCATTA","r":"","ph":"0456 473 570","lat":-31.87340000,"lng":115.82883900},
+{"n":"7-Eleven Stirling","b":"7-Eleven","p":167.9,"a":"","s":"BALCATTA","r":"","ph":"0456 473 570","lat":-31.87340000,"lng":115.82883900},
 {"n":"Atlas Fuel Geraldton","b":"Atlas","p":168.5,"a":"184 North West Coastal Hwy","s":"WONTHELLA","r":"","ph":"(08) 9960 7019","lat":-28.75959600,"lng":114.62510900},
 {"n":"Petro Fuels Bluff Point","b":"Petro Fuels","p":168.9,"a":"381 Chapman Rd","s":"BLUFF POINT","r":"","ph":"(08) 9965 1496","lat":-28.74142000,"lng":114.62245600},
 {"n":"United Albany Central","b":"United","p":169.5,"a":"309 Albany Hwy","s":"MOUNT MELVILLE","r":"","ph":"1300 383 587","lat":-35.00576200,"lng":117.86687900},
@@ -536,7 +537,7 @@
 {"n":"BP Busselton","b":"BP","p":174.9,"a":"26 Albert St","s":"BUSSELTON","r":"","ph":"(08) 9752 1509","lat":-33.65248800,"lng":115.34434900},
 {"n":"Ampol Foodary Busselton","b":"Ampol","p":174.9,"a":"115 Strelly St","s":"BUSSELTON","r":"","ph":"(08) 9752 3563","lat":-33.66756300,"lng":115.35000000},
 {"n":"7-Eleven Treendale","b":"7-Eleven","p":174.9,"a":"147-149 Grand Ent","s":"AUSTRALIND","r":"","ph":"0473 839 718","lat":-33.28332000,"lng":115.74613700},
-{"n":"7-Eleven Busselton","b":"7-Eleven","p":null,"a":"81-93 West St","s":"BUSSELTON","r":"","ph":"0484 322 274","lat":-33.65409100,"lng":115.34183600},
+{"n":"7-Eleven Busselton","b":"7-Eleven","p":174.9,"a":"81-93 West St","s":"BUSSELTON","r":"","ph":"0484 322 274","lat":-33.65409100,"lng":115.34183600},
 {"n":"Caltex Busselton","b":"Caltex","p":174.9,"a":"99 Causeway Rd","s":"BUSSELTON","r":"","ph":"0456 542 651","lat":-33.66236800,"lng":115.35822700},
 {"n":"BP Beldon","b":"BP","p":174.9,"a":"261 Eddystone Ave","s":"BELDON","r":"","ph":"(08) 9307 7887","lat":-31.77079200,"lng":115.76722400},
 {"n":"BP Henley Brook","b":"BP","p":174.9,"a":"1520 Gnangara Rd","s":"HENLEY BROOK","r":"","ph":"(08) 6296 5788","lat":-31.79595100,"lng":115.97863600},
@@ -933,4 +934,4 @@
 {"n":"Punmu Community","b":"BP","p":380.0,"a":"Great Sandy Desert","s":"TELFER","r":"","ph":"","lat":-22.04244634,"lng":123.12153500},
 {"n":"Yakanarra Community Store","b":"Independent","p":410.0,"a":"Nyinyijarta Rd","s":"ST GEORGE RANGES","r":"","ph":"","lat":-18.67085881,"lng":125.29763240},
 {"n":"Kunawarritji Store","b":"Independent","p":420.0,"a":"First St","s":"GIBSON DESERT NORTH","r":"","ph":"","lat":-22.32988017,"lng":124.72688540}
-],"count":934}
+],"count":935}
