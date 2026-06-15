@@ -1,15 +1,15 @@
-{"updated":"2026-06-15T05:01:56+08:00","day":"today","date":"2026-06-15","product":10,"name":"E85","stations":[
+{"updated":"2026-06-16T05:01:54+08:00","day":"today","date":"2026-06-16","product":10,"name":"E85","stations":[
 {"n":"United Lexia Truck Stop","b":"United","p":269.9,"a":"779 Gnangara Rd","s":"LEXIA","r":"","ph":"(08) 6336 7753","lat":-31.79518900,"lng":115.89955900},
-{"n":"United Armadale","b":"United","p":269.9,"a":"178 South Western Hwy","s":"ARMADALE","r":"","ph":"(08) 6336 7760","lat":-32.16149200,"lng":116.01760000},
-{"n":"United Ellenbrook","b":"United","p":269.9,"a":"3 Locke Lane","s":"ELLENBROOK","r":"","ph":"(08) 6336 7752","lat":-31.77852000,"lng":115.96699000},
 {"n":"United Osborne Park","b":"United","p":269.9,"a":"479 Scarborough Beach Rd","s":"OSBORNE PARK","r":"","ph":"(08) 6336 7755","lat":-31.90483700,"lng":115.80609000},
-{"n":"United Byford","b":"United","p":269.9,"a":"801-803 South Western Hwy","s":"BYFORD","r":"","ph":"(08) 6118 6517","lat":-32.21544360,"lng":116.00803040},
-{"n":"United Tapping","b":"United","p":269.9,"a":"1369 Wanneroo Rd","s":"WANNEROO","r":"","ph":"(08) 6205 9010","lat":-31.71974400,"lng":115.78340800},
-{"n":"United Southern River","b":"United","p":269.9,"a":"Lot 101 Terrier Pl","s":"SOUTHERN RIVER","r":"","ph":"(08) 6336 7771","lat":-32.12113600,"lng":115.95458200},
-{"n":"United Kellerberrin Truck Stop","b":"United","p":269.9,"a":"150 Massingham St","s":"KELLERBERRIN","r":"","ph":"(08) 6336 7773","lat":-31.63305600,"lng":117.72717300},
-{"n":"United Pinjarra Truck Stop","b":"United","p":269.9,"a":"1602 Pinjarra Rd","s":"PINJARRA","r":"","ph":"(08) 9548 6000","lat":-32.61078500,"lng":115.84804100},
-{"n":"United Naval Base Truck Stop","b":"United","p":269.9,"a":"13 Lionel St","s":"NAVAL BASE","r":"","ph":"(08) 6170 5095","lat":-32.19542500,"lng":115.78310600},
-{"n":"United Anketell South","b":"United","p":269.9,"a":"805 Thomas Rd","s":"ANKETELL","r":"","ph":"(08) 6170 9002","lat":-32.22780200,"lng":115.85587580},
 {"n":"United Hepburn Heights","b":"United","p":269.9,"a":"4 Walter Padbury Bvd","s":"PADBURY","r":"","ph":"(08) 9307 2868","lat":-31.81889000,"lng":115.77409600},
-{"n":"United Maddington Truck Stop","b":"United","p":269.9,"a":"13 Stebbing Rd","s":"MADDINGTON","r":"","ph":"(08) 6400 6609","lat":-32.04235600,"lng":115.99131000}
+{"n":"United Ellenbrook","b":"United","p":269.9,"a":"3 Locke Lane","s":"ELLENBROOK","r":"","ph":"(08) 6336 7752","lat":-31.77852000,"lng":115.96699000},
+{"n":"United Kellerberrin Truck Stop","b":"United","p":269.9,"a":"150 Massingham St","s":"KELLERBERRIN","r":"","ph":"(08) 6336 7773","lat":-31.63305600,"lng":117.72717300},
+{"n":"United Armadale","b":"United","p":269.9,"a":"178 South Western Hwy","s":"ARMADALE","r":"","ph":"(08) 6336 7760","lat":-32.16149200,"lng":116.01760000},
+{"n":"United Pinjarra Truck Stop","b":"United","p":269.9,"a":"1602 Pinjarra Rd","s":"PINJARRA","r":"","ph":"(08) 9548 6000","lat":-32.61078500,"lng":115.84804100},
+{"n":"United Byford","b":"United","p":269.9,"a":"801-803 South Western Hwy","s":"BYFORD","r":"","ph":"(08) 6118 6517","lat":-32.21544360,"lng":116.00803040},
+{"n":"United Naval Base Truck Stop","b":"United","p":269.9,"a":"13 Lionel St","s":"NAVAL BASE","r":"","ph":"(08) 6170 5095","lat":-32.19542500,"lng":115.78310600},
+{"n":"United Tapping","b":"United","p":269.9,"a":"1369 Wanneroo Rd","s":"WANNEROO","r":"","ph":"(08) 6205 9010","lat":-31.71974400,"lng":115.78340800},
+{"n":"United Anketell South","b":"United","p":269.9,"a":"805 Thomas Rd","s":"ANKETELL","r":"","ph":"(08) 6170 9002","lat":-32.22780200,"lng":115.85587580},
+{"n":"United Maddington Truck Stop","b":"United","p":269.9,"a":"13 Stebbing Rd","s":"MADDINGTON","r":"","ph":"(08) 6400 6609","lat":-32.04235600,"lng":115.99131000},
+{"n":"United Southern River","b":"United","p":269.9,"a":"Lot 101 Terrier Pl","s":"SOUTHERN RIVER","r":"","ph":"(08) 6336 7771","lat":-32.12113600,"lng":115.95458200}
 ],"count":13}
