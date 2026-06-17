@@ -1,8 +1,8 @@
-{"updated":"2026-06-17T14:37:24+08:00","day":"tomorrow","date":"2026-06-18","product":11,"name":"Brand Diesel","stations":[
+{"updated":"2026-06-17T22:42:13+08:00","day":"tomorrow","date":"2026-06-18","product":11,"name":"Brand Diesel","stations":[
 {"n":"Atlas Fuel Forrestdale","b":"Atlas","p":175.9,"a":"12 Antsey Rd","s":"FORRESTDALE","r":"","ph":"","lat":-32.14717600,"lng":115.93771400},
 {"n":"Atlas Fuel Ascot","b":"Atlas","p":175.9,"a":"472 Great Eastern Hwy","s":"ASCOT","r":"","ph":"(08) 6146 1151","lat":-31.92521300,"lng":115.95198700},
 {"n":"Burk Oakford","b":"Burk","p":177.3,"a":"1526 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 6205 9900","lat":-32.20504100,"lng":115.92611400},
-{"n":"Atlas Fuel Kwinana","b":"","p":178.5,"a":"1 Mandurah Rd","s":"KWINANA BEACH","r":"","ph":"(08) 6377 7665","lat":-32.23584800,"lng":115.78021500},
+{"n":"Atlas Fuel Kwinana","b":"Atlas","p":178.5,"a":"1 Mandurah Rd","s":"KWINANA BEACH","r":"","ph":"(08) 6377 7665","lat":-32.23584800,"lng":115.78021500},
 {"n":"Burk Landsdale","b":"Burk","p":179.3,"a":"274 Gnangara Rd","s":"LANDSDALE","r":"","ph":"(08) 6205 9911","lat":-31.79903000,"lng":115.84712600},
 {"n":"Atlas Fuel Golden Bay","b":"Atlas","p":179.9,"a":"2 Aurea Bvd","s":"GOLDEN BAY","r":"","ph":"(08) 6146 1151","lat":-32.42028000,"lng":115.76048900},
 {"n":"United Maddington Truck Stop","b":"United","p":181.5,"a":"13 Stebbing Rd","s":"MADDINGTON","r":"","ph":"(08) 6400 6609","lat":-32.04235600,"lng":115.99131000},
@@ -34,7 +34,7 @@
 {"n":"Ampol Foodary High Wycombe","b":"Ampol","p":185.9,"a":"967-969 Abernethy Rd","s":"HIGH WYCOMBE","r":"","ph":"(08) 9454 3025","lat":-31.95158500,"lng":115.98738700},
 {"n":"Ampol Foodary Wangara","b":"Ampol","p":185.9,"a":"79 Buckingham Dr","s":"WANGARA","r":"","ph":"(08) 9309 1263","lat":-31.78772500,"lng":115.82828500},
 {"n":"Caltex Neerabup","b":"Caltex","p":185.9,"a":"2056 Wanneroo Rd","s":"NEERABUP","r":"","ph":"(08) 9407 0100","lat":-31.67127000,"lng":115.74202200},
-{"n":"Caltex Maddington Truck Stop","b":"Caltex","p":185.9,"a":"18 Orchard Rd","s":"MADDINGTON","r":"","ph":"(08) 9459 1919","lat":-32.03520700,"lng":115.99919500},
+{"n":"Caltex Maddington Truck Stop","b":"Caltex","p":185.9,"a":"18 Orchard Rd","s":"MADDINGTON","r":"","ph":"(08) 9459 1919","lat":null,"lng":115.99919500},
 {"n":"Shell Reddy Express Bayswater","b":"Reddy Express","p":185.9,"a":"34 Jackson St","s":"BAYSWATER","r":"","ph":"(08) 6157 5678","lat":-31.90673400,"lng":115.92665000},
 {"n":"Caltex Kelvin Rd","b":"Caltex","p":185.9,"a":"137 Kelvin Rd","s":"MADDINGTON","r":"","ph":"(08) 9493 2510","lat":-32.03460900,"lng":116.00091500},
 {"n":"UGO Mundaring","b":"UGO","p":185.9,"a":"5895 Great Eastern Hwy","s":"MUNDARING","r":"","ph":"(08) 9295 3918","lat":-31.90060900,"lng":116.15198300},
@@ -66,7 +66,6 @@
 {"n":"Ampol Foodary Leederville","b":"Ampol","p":189.9,"a":"319 Vincent St","s":"LEEDERVILLE","r":"","ph":"(08) 9242 3978","lat":-31.93681600,"lng":115.84002500},
 {"n":"Ampol Foodary Ascot","b":"Ampol","p":189.9,"a":"204 Great Eastern Hwy","s":"ASCOT","r":"","ph":"(08) 9478 5029","lat":-31.94098000,"lng":115.92633700},
 {"n":"Ampol Foodary East Perth","b":"Ampol","p":189.9,"a":"157 Lord St","s":"PERTH","r":"","ph":"(08) 9227 0184","lat":-31.94868900,"lng":115.86956700},
-{"n":"Ampol Foodary Midvale","b":"Ampol","p":189.9,"a":"371 Great Eastern Hwy","s":"MIDVALE","r":"","ph":"(08) 9250 4899","lat":-31.89460700,"lng":116.03100500},
 {"n":"Ampol Foodary Belmont","b":"Ampol","p":189.9,"a":"303 Great Eastern Hwy","s":"BELMONT","r":"","ph":"(08) 9277 2887","lat":-31.93773400,"lng":115.93344700},
 {"n":"Ampol Foodary Northlands","b":"Ampol","p":189.9,"a":"391 Wanneroo Rd","s":"BALCATTA","r":"","ph":"(08) 9349 0497","lat":-31.87254200,"lng":115.83098400},
 {"n":"Ampol Foodary Mt Lawley","b":"Ampol","p":189.9,"a":"810 Beaufort St","s":"MOUNT LAWLEY","r":"","ph":"(08) 9271 3011","lat":-31.92517900,"lng":115.88191700},
@@ -104,7 +103,7 @@
 {"n":"X Convenience Alkimos","b":"X Convenience","p":191.9,"a":"58 Montana Cres","s":"ALKIMOS","r":"","ph":"(08) 9562 4320","lat":-31.62143300,"lng":115.68875400},
 {"n":"Better Choice Tuart Hill","b":"Better Choice","p":192.5,"a":"150 Wanneroo Rd","s":"TUART HILL","r":"","ph":"(08) 9349 6915","lat":-31.89726800,"lng":115.84144700},
 {"n":"Better Choice Edgewater","b":"Better Choice","p":192.5,"a":"21 Edgewater Dr","s":"EDGEWATER","r":"","ph":"(08) 9404 7082","lat":-31.77203600,"lng":115.78918200},
-{"n":"Liberty East Rockingham","b":"Liberty","p":192.5,"a":"115 Dixon Rd","s":"EAST ROCKINGHAM","r":"","ph":"(08) 6500 7318","lat":-32.27666660,"lng":115.77340300},
+{"n":"Liberty East Rockingham","b":"Liberty","p":192.5,"a":"115 Dixon Rd","s":"EAST ROCKINGHAM","r":"","ph":"(08) 6500 7318","lat":null,"lng":115.77340300},
 {"n":"Liberty Cataby","b":"Liberty","p":192.5,"a":"10805 Brand Hwy","s":"CATABY","r":"","ph":"(08) 6500 1266","lat":-30.73570600,"lng":115.53909100},
 {"n":"Liberty O'Connor","b":"Liberty","p":192.5,"a":"9 Pritchard St","s":"O'CONNOR","r":"","ph":"0426 080 611","lat":-32.06306500,"lng":115.79201700},
 {"n":"Petro Fuels Seville Grove","b":"Petro Fuels","p":192.8,"a":"537 Lake Rd","s":"SEVILLE GROVE","r":"","ph":"(08) 9390 6147","lat":-32.13683400,"lng":115.98030500},
@@ -451,4 +450,4 @@
 {"n":"Ampol Newman Diesel Stop","b":"Ampol","p":239.9,"a":"131 Welsh Dr","s":"NEWMAN","r":"","ph":"1800 240 398","lat":-23.36911800,"lng":119.72904700},
 {"n":"Ampol Foodary Newman","b":"Ampol","p":239.9,"a":"Lot 1328 Newman Dr","s":"NEWMAN","r":"","ph":"(08) 9175 0268","lat":-23.35805500,"lng":119.72772100},
 {"n":"EG Ampol Djugun","b":"EG Ampol","p":239.9,"a":"106 Frederick St","s":"DJUGUN","r":"","ph":"(08) 9129 4228","lat":-17.95332800,"lng":122.22819500}
-],"count":452}
+],"count":451}
