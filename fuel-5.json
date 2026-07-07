@@ -1,4 +1,4 @@
-{"updated":"2026-07-07T05:01:45+08:00","day":"today","date":"2026-07-07","product":5,"name":"LPG","stations":[
+{"updated":"2026-07-08T05:01:22+08:00","day":"today","date":"2026-07-08","product":5,"name":"LPG","stations":[
 {"n":"Liberty Beckenham","b":"Liberty","p":136.5,"a":"63 William St","s":"BECKENHAM","r":"","ph":"(08) 7077 3062","lat":-32.02205400,"lng":115.95477900},
 {"n":"S24 Forrestfield","b":"Shell","p":140.9,"a":"155 Hale Rd","s":"FORRESTFIELD","r":"","ph":"","lat":-31.99055500,"lng":116.00006400},
 {"n":"S24 Redcliffe","b":"Shell","p":140.9,"a":"419 Great Eastern Hwy","s":"REDCLIFFE","r":"","ph":"","lat":-31.93046900,"lng":115.94472800},
@@ -8,7 +8,7 @@
 {"n":"Caltex Langford","b":"Caltex","p":145.9,"a":"230-234 Nicholson Rd","s":"LANGFORD","r":"","ph":"(08) 9258 3444","lat":-32.04723000,"lng":115.93237500},
 {"n":"Caltex Kelmscott","b":"Caltex","p":145.9,"a":"2907 Albany Hwy","s":"KELMSCOTT","r":"","ph":"(08) 9390 5433","lat":-32.11870800,"lng":116.01658900},
 {"n":"BP Morley","b":"BP","p":151.9,"a":"335 Walter Rd West","s":"MORLEY","r":"","ph":"(08) 9275 7522","lat":-31.89446000,"lng":115.90533000},
-{"n":"Lori's Fuel Supply","b":"Independent","p":156.9,"a":"259 Railway Ave","s":"KELMSCOTT","r":"","ph":"(08) 9399 1701","lat":-32.13535900,"lng":116.00948100},
+{"n":"Lori's Fuel Supply","b":"Independent","p":156.9,"a":"","s":"KELMSCOTT","r":"","ph":"(08) 9399 1701","lat":-32.13535900,"lng":116.00948100},
 {"n":"United Hamilton Hill","b":"United","p":159.5,"a":"9 Winterfold Rd","s":"HAMILTON HILL","r":"","ph":"(08) 6336 7751","lat":-32.07492600,"lng":115.78093100},
 {"n":"United Hepburn Heights","b":"United","p":159.5,"a":"4 Walter Padbury Bvd","s":"PADBURY","r":"","ph":"(08) 9307 2868","lat":-31.81889000,"lng":115.77409600},
 {"n":"United Kewdale Truck Stop","b":"United","p":159.5,"a":"410-412 Orrong Rd","s":"KEWDALE","r":"","ph":"(08) 6336 7774","lat":-31.99004700,"lng":115.93925800},
