@@ -1,8 +1,9 @@
-{"updated":"2026-07-10T14:36:03+08:00","day":"tomorrow","date":"2026-07-11","product":2,"name":"PULP 95","stations":[
+{"updated":"2026-07-10T16:28:24+08:00","day":"tomorrow","date":"2026-07-11","product":2,"name":"PULP 95","stations":[
 {"n":"Burk Landsdale","b":"Burk","p":161.3,"a":"274 Gnangara Rd","s":"LANDSDALE","r":"","ph":"(08) 6205 9911","lat":-31.79903000,"lng":115.84712600},
 {"n":"Burk Cannington","b":"Burk","p":165.3,"a":"1510 Albany Hwy","s":"BECKENHAM","r":"","ph":"","lat":-32.02718300,"lng":115.95001300},
 {"n":"Burk Alkimos","b":"Burk","p":165.3,"a":"12 Longstaff Ave","s":"ALKIMOS","r":"","ph":"(08) 9554 2372","lat":-31.62823900,"lng":115.69118000},
 {"n":"Burk Bassendean","b":"Burk","p":165.3,"a":"309 Guildford Rd","s":"BASSENDEAN","r":"","ph":"(08) 6278 4747","lat":-31.90110500,"lng":115.95911800},
+{"n":"Burk Oakford","b":"Burk","p":165.3,"a":"1526 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 6205 9900","lat":-32.20504100,"lng":115.92611400},
 {"n":"Metro Wangara","b":"Metro Petroleum","p":167.2,"a":"79 Gnangara Rd","s":"WANGARA","r":"","ph":"0477 333 771","lat":-31.80190300,"lng":115.82751900},
 {"n":"Burk Malaga","b":"Burk","p":167.3,"a":"1 Harlond Ave","s":"MALAGA","r":"","ph":"(08) 6205 9900","lat":-31.85577800,"lng":115.89155900},
 {"n":"Liberty Beckenham","b":"Liberty","p":168.5,"a":"63 William St","s":"BECKENHAM","r":"","ph":"(08) 7077 3062","lat":-32.02205400,"lng":115.95477900},
@@ -83,7 +84,7 @@
 {"n":"Liberty West Busselton","b":"Liberty","p":177.3,"a":"259 Bussell Hwy","s":"WEST BUSSELTON","r":"","ph":"(08) 9752 2002","lat":-33.65735700,"lng":115.31171000},
 {"n":"Geographe Petroleum","b":"Liberty","p":177.5,"a":"84 Strelly St","s":"BUSSELTON","r":"","ph":"(08) 9752 2068","lat":-33.66285300,"lng":115.34858500},
 {"n":"Liberty Busselton West","b":"Liberty","p":177.5,"a":"100 West St","s":"WEST BUSSELTON","r":"","ph":"(08) 6500 1244","lat":-33.65607600,"lng":115.34121500},
-{"n":"Atlas Fuel Welshpool","b":"Atlas","p":177.5,"a":"36 Welshpool Rd","s":"WELSHPOOL","r":"","ph":"(08) 614\r\na000\r\n6 1152","lat":-31.99370700,"lng":115.91913900},
+{"n":"Atlas Fuel Welshpool","b":"Atlas","p":177.5,"a":"36 Welshpool Rd","s":"WELSHPOOL","r":"","ph":"(08) 6146 1152","lat":-31.99370700,"lng":115.91913900},
 {"n":"Vibe Nollamara","b":"Vibe","p":177.7,"a":"66 Sylvia St","s":"NOLLAMARA","r":"","ph":"(08) 9349 6904","lat":-31.88051400,"lng":115.84033900},
 {"n":"Atlas Fuel Caversham","b":"Atlas","p":177.8,"a":"40 Bennett St","s":"CAVERSHAM","r":"","ph":"(08) 6460 4581","lat":-31.87199940,"lng":115.95991620},
 {"n":"7-Eleven Wattle Grove","b":"7-Eleven","p":177.9,"a":"332 Hale Rd","s":"WATTLE GROVE","r":"","ph":"(08) 9453 6501","lat":-32.00000000,"lng":115.98578400},
@@ -140,6 +141,7 @@
 {"n":"7-Eleven Busselton","b":"7-Eleven","p":180.9,"a":"81-93 West St","s":"BUSSELTON","r":"","ph":"0484 322 274","lat":-33.65409100,"lng":115.34183600},
 {"n":"Liberty Dongara","b":"Liberty","p":180.9,"a":"30215 Brand Hwy","s":"DONGARA","r":"","ph":"(08) 6500 3262","lat":-29.25303800,"lng":114.95636800},
 {"n":"7-Eleven Bentley","b":"7-Eleven","p":180.9,"a":"1133-1135 Albany Hwy","s":"BENTLEY","r":"","ph":"0417 296 393","lat":-32.00175400,"lng":115.91852300},
+{"n":"EG Ampol Maddington West","b":"EG Ampol","p":180.9,"a":"207 Burslem Dr","s":"MADDINGTON","r":"","ph":"(08) 6186 0425","lat":-32.04932400,"lng":115.97750200},
 {"n":"EG Ampol Mirrabooka","b":"EG Ampol","p":180.9,"a":"53 Yirrigan Dr","s":"MIRRABOOKA","r":"","ph":"(08) 6186 0287","lat":-31.87356700,"lng":115.86140700},
 {"n":"EG Ampol South Lake","b":"EG Ampol","p":180.9,"a":"752 North Lake Rd","s":"SOUTH LAKE","r":"","ph":"(08) 6186 0285","lat":-32.11517200,"lng":115.83703200},
 {"n":"7-Eleven Golden Bay","b":"7-Eleven","p":180.9,"a":"52 Thundelarra Dr","s":"GOLDEN BAY","r":"","ph":"0491 819 577","lat":-32.42077700,"lng":115.76105500},
@@ -166,7 +168,7 @@
 {"n":"Atlas Fuel Stratton","b":"Atlas","p":181.7,"a":"177 O'Connor Rd","s":"STRATTON","r":"","ph":"","lat":-31.86973800,"lng":116.03437700},
 {"n":"Vibe Subiaco","b":"Vibe","p":181.7,"a":"123 Thomas St","s":"SUBIACO","r":"","ph":"(08) 9382 2281","lat":-31.95230700,"lng":115.83115000},
 {"n":"7-Eleven Southern River","b":"7-Eleven","p":181.9,"a":"481 Balfour St","s":"SOUTHERN RIVER","r":"","ph":"(08) 9394 1277","lat":-32.10788400,"lng":115.93971800},
-{"n":"7-Eleven Banksia Grove","b":"7-Eleven","p":181.9,"a":"1/300 Joseph Banks Bvd","s":"BANKSIA GROVE","r":"","ph":"(08) 9206 3385","lat":-31.70342300,"lng":115.80431500},
+{"n":"7-Eleven Banksia Grove","b":"7-Eleven","p":181.9,"a":"1/300 Joseph Banks Bvd","s":"BANKSIA GROVE","r":"","ph":"(08) 9206 3385","lat":null,"lng":115.80431500},
 {"n":"Caltex Midvale","b":"Caltex","p":181.9,"a":"232 Morrison Rd","s":"MIDVALE","r":"","ph":"(08) 6155 2722","lat":-31.88639100,"lng":116.03186200},
 {"n":"Caltex Malaga","b":"Caltex","p":181.9,"a":"1896 Beach Rd","s":"MALAGA","r":"","ph":"(08) 9248 4406","lat":-31.85295000,"lng":115.88205900},
 {"n":"Caltex Gwelup","b":"Caltex","p":181.9,"a":"1 Wishart St","s":"GWELUP","r":"","ph":"(08) 9204 2357","lat":-31.87633700,"lng":115.79678000},
@@ -217,7 +219,6 @@
 {"n":"BP Baldivis Northbound Travel Centre","b":"BP","p":182.9,"a":"Lot 191 Paparone Rd","s":"BALDIVIS","r":"","ph":"(08) 9523 0979","lat":-32.30913700,"lng":115.83039700},
 {"n":"BP Baldivis Southbound Travel Centre","b":"BP","p":182.9,"a":"Lot 192 Leary Rd","s":"BALDIVIS","r":"","ph":"(08) 9591 8222","lat":-32.30928100,"lng":115.83277000},
 {"n":"BP Naval Base","b":"BP","p":182.9,"a":"1351 Rockingham Rd","s":"NAVAL BASE","r":"","ph":"0413 893 315","lat":-32.19989200,"lng":115.78184300},
-{"n":"BP Welshpool","b":"BP","p":182.9,"a":"1 Ballantyne Rd","s":"KEWDALE","r":"","ph":"(08) 9353 1606","lat":-31.98638400,"lng":115.93688100},
 {"n":"BP Jindalee","b":"BP","p":182.9,"a":"2 Abello Bvd","s":"JINDALEE","r":"","ph":"0499 949 822","lat":-31.63661100,"lng":115.68959900},
 {"n":"BP Embleton","b":"BP","p":182.9,"a":"484 Walter Rd East","s":"EMBLETON","r":"","ph":"0436 416 540","lat":-31.89510000,"lng":115.92320600},
 {"n":"NightOwl Shell Bellevue","b":"Shell","p":182.9,"a":"49 Great Eastern Hwy","s":"BELLEVUE","r":"","ph":"0457 872 601","lat":-31.89557600,"lng":116.03280600},
@@ -235,7 +236,7 @@
 {"n":"BP Singleton","b":"BP","p":182.9,"a":"2514 Mandurah Rd","s":"SINGLETON","r":"","ph":"0461 557 514","lat":-32.44701400,"lng":115.76303800},
 {"n":"NightOwl BP Armadale","b":"BP","p":182.9,"a":"3249 Albany Hwy","s":"ARMADALE","r":"","ph":"(08) 6192 0156","lat":-32.14853500,"lng":116.02035100},
 {"n":"S24 Guildford","b":"Caltex","p":183.4,"a":"22 Johnson St","s":"GUILDFORD","r":"","ph":"","lat":-31.90120300,"lng":115.96908700},
-{"n":"Shell Reddy Express Vasse","b":"Reddy Express","p":183.4,"a":"2 Napoleon Prom","s":"VASSE","r":"","ph":"(08) 6247 4306","lat":null,"lng":115.25120600},
+{"n":"Shell Reddy Express Vasse","b":"Reddy Express","p":183.4,"a":"2 Napoleon Prom","s":"VASSE","r":"","ph":"(08) 6247 4306","lat":-33.67517500,"lng":115.25120600},
 {"n":"Better Choice Malaga","b":"Better Choice","p":183.5,"a":"3 Carson Rd","s":"MALAGA","r":"","ph":"(08) 9248 2671","lat":-31.85513600,"lng":115.87822900},
 {"n":"Vibe Bullsbrook","b":"Vibe","p":183.7,"a":"2533 Great Northern Hwy","s":"BULLSBROOK","r":"","ph":"(08) 9571 1971","lat":-31.67193500,"lng":116.03142700},
 {"n":"Petro Fuels Albany","b":"Petro Fuels","p":183.8,"a":"250 Albany Hwy","s":"CENTENNIAL PARK","r":"","ph":"(08) 9841 1757","lat":-35.00989500,"lng":117.87044300},
@@ -324,7 +325,7 @@
 {"n":"Caltex Mundaring","b":"Caltex","p":183.9,"a":"7060 Great Eastern Hwy","s":"MUNDARING","r":"","ph":"(08) 9295 3062","lat":-31.90219400,"lng":116.16460900},
 {"n":"EG Ampol Brabham","b":"EG Ampol","p":183.9,"a":"3 Marvel Ent","s":"BRABHAM","r":"","ph":"(08) 6186 1169","lat":-31.83294400,"lng":115.96691600},
 {"n":"Caltex High Wycombe OPT","b":"Caltex","p":183.9,"a":"494 Kalamunda Rd","s":"HIGH WYCOMBE","r":"","ph":"(08) 9366 4700","lat":-31.93697700,"lng":116.00803400},
-{"n":"","b":"Atlas","p":183.9,"a":"10895 Great Eastern Hwy","s":"SAWYERS VALLEY","r":"","ph":"(08) 6394 3435","lat":-31.90321100,"lng":116.20503200},
+{"n":"Atlas Fuel Sawyers Valley","b":"Atlas","p":183.9,"a":"10895 Great Eastern Hwy","s":"SAWYERS VALLEY","r":"","ph":"(08) 6394 3435","lat":-31.90321100,"lng":116.20503200},
 {"n":"UGO Mundaring","b":"UGO","p":183.9,"a":"5895 Great Eastern Hwy","s":"MUNDARING","r":"","ph":"(08) 9295 3918","lat":-31.90060900,"lng":116.15198300},
 {"n":"Herne Hill General Store","b":"Vibe","p":183.9,"a":"777 Great Northern Hwy","s":"HERNE HILL","r":"","ph":"(08) 9296 0771","lat":-31.82503600,"lng":116.01671600},
 {"n":"OTR Como","b":"Shell","p":184.4,"a":"73 Manning Rd","s":"COMO","r":"","ph":"","lat":-32.01209100,"lng":115.86442700},
@@ -521,4 +522,4 @@
 {"n":"Exmouth Fuel Supplies","b":"Independent","p":258.8,"a":"2 Huston St","s":"EXMOUTH","r":"","ph":"(08) 9949 1051","lat":-21.93701000,"lng":114.12624300},
 {"n":"Petro Fuels Lake Grace","b":"Petro Fuels","p":259.8,"a":"1 South Rd","s":"LAKE GRACE","r":"","ph":"","lat":-33.10108600,"lng":118.47060000},
 {"n":"Pingrup Roadhouse","b":"Independent","p":279.0,"a":"1 Sanderson St","s":"PINGRUP","r":"","ph":"","lat":-33.53469210,"lng":118.51305890}
-],"count":522}
+],"count":523}
