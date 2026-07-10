@@ -1,4 +1,4 @@
-{"updated":"2026-07-10T14:36:23+08:00","day":"tomorrow","date":"2026-07-11","product":4,"name":"Diesel","stations":[
+{"updated":"2026-07-10T16:28:39+08:00","day":"tomorrow","date":"2026-07-11","product":4,"name":"Diesel","stations":[
 {"n":"Burk Oakford","b":"Burk","p":164.3,"a":"1526 Thomas Rd","s":"OAKFORD","r":"","ph":"(08) 6205 9900","lat":-32.20504100,"lng":115.92611400},
 {"n":"Burk Landsdale","b":"Burk","p":165.3,"a":"274 Gnangara Rd","s":"LANDSDALE","r":"","ph":"(08) 6205 9911","lat":-31.79903000,"lng":115.84712600},
 {"n":"Burk Cannington","b":"Burk","p":167.3,"a":"1510 Albany Hwy","s":"BECKENHAM","r":"","ph":"","lat":-32.02718300,"lng":115.95001300},
@@ -290,7 +290,7 @@
 {"n":"BP Wagin OPT","b":"BP","p":189.9,"a":"20 Tudhoe St","s":"WAGIN","r":"","ph":"","lat":-33.30961781,"lng":117.34225660},
 {"n":"BP Wongan Hills OPT","b":"BP","p":189.9,"a":"160 Wongan Rd","s":"WONGAN HILLS","r":"","ph":"","lat":-30.98777800,"lng":116.72020600},
 {"n":"BP Kukerin OPT","b":"BP","p":189.9,"a":"27 Scaddan St","s":"KUKERIN","r":"","ph":"","lat":-33.18808638,"lng":118.08417480},
-{"n":"BP Wickepin OPT","b":"BP","p":189.9,"a":"66 Wogolin Rd","s":"WICKEPIN","r":"","ph":"","lat":-32.78168058,"lng":117.50346170},
+{"n":"BP Wickepin OPT","b":"BP","p":189.9,"a":"66 Wogolin Rd","s":"WICKEPIN","r":"","ph":"","lat":-32.78168058,"lng":null},
 {"n":"BP Trayning OPT","b":"BP","p":189.9,"a":"Lot 173 Sutherland St","s":"TRAYNING","r":"","ph":"","lat":-31.11283966,"lng":117.79505320},
 {"n":"BP Kalannie OPT","b":"BP","p":189.9,"a":"1 Rolinson Dr","s":"KALANNIE","r":"","ph":"","lat":-30.36593054,"lng":117.12014490},
 {"n":"BP Bencubbin OPT","b":"BP","p":189.9,"a":"38 Brown St","s":"BENCUBBIN","r":"","ph":"","lat":-30.81002956,"lng":117.86124060},
@@ -313,7 +313,7 @@
 {"n":"Hills Emporio","b":"Independent","p":189.9,"a":"1615 Canning Rd","s":"KARRAGULLEN","r":"","ph":"0437 708 788","lat":-32.08627300,"lng":116.11554500},
 {"n":"Ampol Welshpool Diesel Stop","b":"Ampol","p":189.9,"a":"119 Kurnall Rd","s":"WELSHPOOL","r":"","ph":"(08) 9358 9200","lat":-31.99008400,"lng":115.96211900},
 {"n":"Ampol Foodary Byford","b":"Ampol","p":189.9,"a":"Lot 22 South Western Hwy","s":"BYFORD","r":"","ph":"(08) 9525 1033","lat":-32.22636800,"lng":116.00800000},
-{"n":"Shell Reddy Express Jolimont","b":"Reddy Express","p":189.9,"a":"6 Jersey St","s":"JOLIMONT","r":"","ph":"(08) \r\n8000\r\n6247 4374","lat":-31.94727300,"lng":115.81194100},
+{"n":"Shell Reddy Express Jolimont","b":"Reddy Express","p":189.9,"a":"6 Jersey St","s":"JOLIMONT","r":"","ph":"(08) 6247 4374","lat":-31.94727300,"lng":115.81194100},
 {"n":"Shell Reddy Express West Perth","b":"Reddy Express","p":189.9,"a":"30 Thomas St","s":"WEST PERTH","r":"","ph":"(08) 6247 4372","lat":-31.94549400,"lng":115.83971900},
 {"n":"Shell Reddy Express Victoria Park","b":"Reddy Express","p":189.9,"a":"66 Kent St","s":"EAST VICTORIA PARK","r":"","ph":"(08) 6247 4352","lat":-31.98553500,"lng":115.89618600},
 {"n":"Shell Reddy Express Lakelands","b":"Reddy Express","p":189.9,"a":"49 Banksiadale Gte","s":"LAKELANDS","r":"","ph":"(08) 6247 4311","lat":-32.46906000,"lng":115.75967700},
